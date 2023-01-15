@@ -1,0 +1,8 @@
+:root {
+  --color1: #415a80;
+  --color2: #a5d4dc;
+  --color3: #e5e7e9;
+  --color4: #d7e2e9;
+  --horizontal-space: 25px;
+  --main-border: 1px solid rgba(0, 0, 0, 0.3);
+}

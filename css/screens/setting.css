@@ -1,0 +1,13 @@
+.screen__header__title i {
+  margin-right: 15px;
+}
+.setting__list li {
+  margin-bottom: 20px;
+  font-size: 25px;
+  border-bottom: var(--main-border);
+  padding-bottom: 15px;
+  color: rgba(0, 0, 0, 0.7);
+}
+.setting__list li i {
+  margin-right: 20px;
+}
